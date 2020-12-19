@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-backend
 
+## 0.5.1
+
+### Patch Changes
+
+- 30d6c78fb: Added configuration schema for the commonly used properties
+
 ## 0.5.0
 
 ### Minor Changes

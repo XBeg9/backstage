@@ -1,5 +1,13 @@
 # @backstage/plugin-graphiql
 
+## 0.2.3
+
+### Patch Changes
+
+- 1dc445e89: Update to use new plugin extension API
+- Updated dependencies [1dc445e89]
+  - @backstage/core@0.4.2
+
 ## 0.2.2
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.3.6
+
+### Patch Changes
+
+- 33a82a713: GitLab preparer uses the right token (primarily the same one as the publisher, falling back to the integrations token)
+
 ## 0.3.5
 
 ### Patch Changes

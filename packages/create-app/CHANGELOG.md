@@ -1,5 +1,11 @@
 # @backstage/create-app
 
+## 0.3.0
+
+### Minor Changes
+
+- 0101c7a16: Add search plugin to default template for CLI created apps
+
 ## 0.2.5
 
 ### Patch Changes
